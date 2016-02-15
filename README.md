@@ -1,0 +1,2 @@
+# Roobiedocks_Adventure
+In this project, you'll use the official Ruby documentation to help you crack a code that will help you enter the land of Roobiedocks.  Afterwards, you'll step back and reflect on your goals, worries, strengths, and motivation for learning Ruby development. This will give you an opportunity to work through the project submission flow from start to finish and get valuable feedback from our project reviewers, who are all working Ruby developers!
