@@ -1,0 +1,4 @@
+My goals as a ruby developers are:
+- Know enough about ruby and the technologies in which it is used to land a job to help myself and my family
+- Strong background in order to learn ruby on rails
+- Know enough to contribute to open source projects that use ruby
